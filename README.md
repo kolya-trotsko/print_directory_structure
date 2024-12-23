@@ -23,7 +23,7 @@ This script prints the directory structure of a given project, excluding specifi
 
    Alternatively, specify a custom root directory:
    ```bash
-   python print_directory_structure.py /path/to/your/project
+   python main.py /path/to/your/project
    ```
 
 ## Example Output
