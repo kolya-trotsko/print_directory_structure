@@ -21,11 +21,6 @@ This script prints the directory structure of a given project, excluding specifi
    python main.py
    ```
 
-   Alternatively, specify a custom root directory:
-   ```bash
-   python main.py /path/to/your/project
-   ```
-
 ## Example Output
 
 ```
